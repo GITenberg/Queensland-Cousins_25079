@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '28389'
     url: http://www.gutenberg.org/2009/agents/28389
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25079#Queensland-Cousins
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2008-04-16'
 gutenberg_type: Text
